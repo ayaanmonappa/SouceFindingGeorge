@@ -138,7 +138,7 @@ The final answer is packed as `TopLeft << 16 | BottomRight` and submitted with a
 
 This is a graded course project, so the code lives in a **private repository** under Georgia Tech's academic integrity policy:
 
-**[github.com/YOUR-USERNAME/YOUR-PRIVATE-REPO](https://github.com/YOUR-USERNAME/YOUR-PRIVATE-REPO)** *(private, available on request)*
+**[github.com/YOUR-USERNAME/YOUR-PRIVATE-REPO](https://[github.com/ayaanmonappa/DynamicFindingGeorge](https://github.com/ayaanmonappa/DynamicFindingGeorge))** *(private, available on request)*
 
 It contains:
 
@@ -147,7 +147,7 @@ It contains:
 | `P1-1.c` | C implementation (design and correctness reference) |
 | `P1-2.asm` | RISC-V implementation, with a dated change log of every optimization |
 
-**To request access**, email [ayaanmonappa20@gmail.com](mailto:ayaanmonappa20@gmail.com?subject=Access%20to%20Find%20George%20source) with your GitHub username and I'll add you as a collaborator.
+**To request access (to employers interested in the code)**, email [ayaanmonappa20@gmail.com](mailto:ayaanmonappa20@gmail.com?subject=Access%20to%20Find%20George%20source) with your GitHub username and I'll add you as a collaborator.
 
 ## Running it
 
